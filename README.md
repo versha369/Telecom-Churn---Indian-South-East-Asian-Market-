@@ -1170,3 +1170,11 @@ plt.show()
     </span>
 </div>
 
+
+
+
+![](https://github.com/versha369/Telecom-Churn---Indian-South-East-Asian-Market-/blob/main/images.jpeg)
+
+
+
+
